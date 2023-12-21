@@ -1,0 +1,15 @@
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/bin/Debug/net6.0/Task1
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/bin/Debug/net6.0/Task1.dll
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.dll
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/vasilenko.a/Desktop/Programming/Lesson1/Task1/obj/Debug/net6.0/ref/Task1.dll
